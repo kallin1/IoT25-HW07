@@ -1,15 +1,15 @@
 # IoT25-HW07
 
 ## Working Image
-![Screenshot](./HW07-1.png)
-![Screenshot](./HW07-2.png)
-![Screenshot](./HW07-3.png)
-![Screenshot](./HW07-4.png)
-![Screenshot](./HW07-5.png)
-![Screenshot](./HW07-6.png)
-![Screenshot](./HW07-7.png)
-![Screenshot](./HW07-8.png)
-![Screenshot](./HW07-9.png)
+![Screenshot](./HW07-1.jpg)
+![Screenshot](./HW07-2.jpg)
+![Screenshot](./HW07-3.jpg)
+![Screenshot](./HW07-4.jpg)
+![Screenshot](./HW07-5.jpg)
+![Screenshot](./HW07-6.jpg)
+![Screenshot](./HW07-7.jpg)
+![Screenshot](./HW07-8.jpg)
+![Screenshot](./HW07-9.jpg)
 
 
 ## Distance Estimation System
