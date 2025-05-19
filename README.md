@@ -1,9 +1,21 @@
-# IoT25-HW06
+# IoT25-HW07
 
-## Board Connect
-![Screenshot](./IoT25-HW06.png)
+## Working Image
+![Screenshot](./HW07-1.png)
+![Screenshot](./HW07-2.png)
+![Screenshot](./HW07-3.png)
+![Screenshot](./HW07-4.png)
+![Screenshot](./HW07-5.png)
+![Screenshot](./HW07-6.png)
+![Screenshot](./HW07-7.png)
+![Screenshot](./HW07-8.png)
+![Screenshot](./HW07-9.png)
 
-## Web Server
-[Video](https://youtube.com/shorts/APtb-uawYYU)
 
+## Distance Estimation System
+[Video](https://youtube.com/shorts/4B_i83bB9m0)
 
+## Project Description
+This project implements a BLE-based distance estimation system using two ESP32 devices.
+The client measures RSSI values from the server and applies a path-loss model to estimate distance.
+Results are visualized through tables and charts comparing actual and estimated distances.
